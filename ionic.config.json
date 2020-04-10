@@ -1,0 +1,8 @@
+{
+  "name": "corona update",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
